@@ -1,0 +1,18 @@
+{
+    "cfgData": {
+      "prizes": [
+        { "type": 0, "count": 10, "title": "", "text": "盲盒抽奖" },
+        {
+          "type": 1,
+          "count": 10,
+          "text": "",
+          "title": "盲盒抽奖",
+          "img": "./img/secrit.jpg"
+        }
+      ],
+      "EACH_COUNT": [10, 10],
+      "COMPANY": "恭喜！恭喜!"
+    },
+    "leftUsers": [],
+    "luckyData": {}
+  }
